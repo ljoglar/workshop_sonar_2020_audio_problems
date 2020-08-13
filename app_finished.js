@@ -61,8 +61,9 @@ App.loadEssentia = function(){
 App.loadSaturationExtractor = function(){
     // create a instance of our custom 'SaturationDetectorExtractor'
     // by passing our configuration settings for the given parameters
-    this.saturationExtractor = new EssentiaWASM.SaturationDetectorExtractor(1024, 512);
-    console.log(this.saturationExtractor);
+    let frameSize = 1024;
+    let hopSize = 512;
+    this.saturationExtractor = new EssentiaWASM.SaturationDetectorExtractor(frameSize, hopSize);
     this.computeSaturation();
 }
 
