@@ -44,3 +44,8 @@ This repository contains everything needed to follow the workshop <a href="https
 ## License
 
 This repository is Open Source under license GNU Afero General Public License v 3.0
+
+
+### Offered by
+
+<img width="300" src="http://v.fastcdn.co/u/087e739f/32594461-0-Logo-Sonosuite-1.png"/>
