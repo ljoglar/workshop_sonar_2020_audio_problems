@@ -48,4 +48,4 @@ This repository is Open Source under license GNU Afero General Public License v 
 
 ### Offered by
 
-<img width="300" src="http://v.fastcdn.co/u/087e739f/32594461-0-Logo-Sonosuite-1.png"/>
+<a href="https://sonosuite.com"><img width="300" src="https://v.fastcdn.co/u/087e739f/32594461-0-Logo-Sonosuite-1.png"/></a>
