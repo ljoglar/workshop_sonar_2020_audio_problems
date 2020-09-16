@@ -49,3 +49,7 @@ This repository is Open Source under license GNU Afero General Public License v 
 ### Offered by
 
 <a href="https://sonosuite.com"><img width="300" src="https://v.fastcdn.co/u/087e739f/32594461-0-Logo-Sonosuite-1.png"/></a>
+
+### In collaboration with
+
+<a href="https://www.upf.edu/web/mtg"><img width="300" src="https://www.upf.edu/documents/8071534/8177261/MTG_logo-07.png/c5d8ed89-90cf-7fbb-6116-1ab41706aa85?t=1578480743718"/></a>
