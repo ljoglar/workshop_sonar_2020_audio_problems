@@ -30,6 +30,7 @@ This repository contains everything needed to follow the workshop <a href="https
 * Essentia
     * <a href="https://essentia.upf.edu/algorithms_reference.html" target="_blank">Algorithms Documentation</a>
     * <a href="https://essentia.upf.edu/installing.html#compiling-essentia-from-source" target="_blank">Compilation Documentation</a>
+    * AES Library Paper: <a href="https://www.aes.org/e-lib/browse.cfm?elib=20338" target="_blank">Automatic Detection of Audio Problems for Quality Control in Digital Music Distribution</a>
 * Web Audio API
     * <a href="https://www.w3.org/TR/webaudio/" target="_blank">Web Audio API</a>
     * <a href="https://developer.mozilla.org/es/docs/Web_Audio_API" target="_blank">MDN web docs - Web Audio API</a>
